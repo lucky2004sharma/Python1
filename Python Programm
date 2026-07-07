@@ -4,16 +4,14 @@ name = input("Enter the student name: ")
 
 print("There are five subjects")
 
-subject1 = int(input("Enter the 1st subject marks :"))
-subject2 = int(input("Enter the 2nd subject marks :"))
-subject3 = int(input("Enter the 3rd subject marks :"))
-subject4 = int(input("Enter the 4th subject marks :"))
-subject5 = int(input("Enter the 5th subject marks :"))
+subject1 = int(input("Enter 1st subject marks :"))
+subject2 = int(input("Enter 2nd subject marks :"))
+subject3 = int(input("Enter 3rd subject marks :"))
+subject4 = int(input("Enter 4th subject marks :"))
+subject5 = int(input("Enter 5th subject marks :"))
 
 marks = subject1 + subject2 + subject3 + subject4 + subject5
 percent = (marks * 100) / 500
-
-
 
 if percent > 90:
     Grade = "A+"
