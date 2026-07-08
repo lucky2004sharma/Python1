@@ -1,3 +1,5 @@
+print("THIS IS MY 3RD PROJECT")
+
 print("Hello! Welcome to Grocery Store")
 
 user_name = input("Please! Enter your name :")
