@@ -9,8 +9,9 @@ subject2 = int(input("Enter 2nd subject mark :"))
 subject3 = int(input("Enter 3rd subject mark :"))
 subject4 = int(input("Enter 4th subject mark :"))
 subject5 = int(input("Enter 5th subject mark :"))
+subject6 = int(input("Enter 6th subject marks :"))
 
-marks = subject1 + subject2 + subject3 + subject4 + subject5
+marks = subject1 + subject2 + subject3 + subject4 + subject5 + subject6
 percent = (marks * 100) / 500
 
 if percent > 90:
