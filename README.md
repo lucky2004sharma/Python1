@@ -5,3 +5,5 @@ print("this is my first time")
 print("Try to understand it..")
 <br>
 print("For Work")
+<br>
+print("This is waste")
