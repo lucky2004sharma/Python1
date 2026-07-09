@@ -10,7 +10,6 @@ while True:
     
     score = 0
     
-    
     print("Q1. What is the capital of INDIA")
     print("a. Delhi")
     print("b. Mumbai")
@@ -24,9 +23,7 @@ while True:
             print("Correct answer : ")
             
         else:
-            print("Wrong answer : ")   
-        
-        
+            print("Wrong answer : ")          
     else:
         print("choose only btwn a,b,c,d :")
         
@@ -55,7 +52,7 @@ while True:
     print("a. Venus")
     print("b. Mercury")
     print("c. Mars")
-    print("d. Jupiter")
+    print("d. JuPiter")
     
     answer = input("plz. Choose answer : ")
     if answer in ["a", "b", "c","d"]:
