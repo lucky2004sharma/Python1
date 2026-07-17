@@ -1,3 +1,9 @@
 print("Hello World!)
-print("How are you")
-print("you are fine")
+<br>
+print("this is my first time")
+<br>
+print("Try to understand it..")
+<br>
+print("For Work")
+<br>
+print("This is waste")
