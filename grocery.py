@@ -33,7 +33,6 @@ print("------- FINAL BILL -------")
 
 
 
-
 print("Customer name :", user_name)
 print("Rice Total :", rice_total)
 print('Milk Total :', milk_total)
